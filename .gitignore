@@ -2,3 +2,10 @@ node_modules
 dist
 .DS_Store
 *.local
+*.cjs
+*.txt
+mock_offers.json
+extract_all_offers.js
+find_*.cjs
+find_*.js
+server_test_result.txt
