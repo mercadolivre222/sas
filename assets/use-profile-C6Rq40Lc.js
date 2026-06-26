@@ -1,0 +1,1 @@
+import{r as a}from"./main-KUAplIK0.js";function f(){return {profile:{display_name:"Administrador",avatar_url:""},loading:false,refresh:()=>{}}}function p(){}export{p as e,f as u};

@@ -1,0 +1,1 @@
+import{r as s}from"./main-KUAplIK0.js";function c(){return {isAdmin:true,loading:false}}export{c as u};

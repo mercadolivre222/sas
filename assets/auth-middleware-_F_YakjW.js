@@ -1,0 +1,1 @@
+import{e as s,r as i,ao as o,ap as n}from"./main-KUAplIK0.js";function u(e){const r=s();return i.useCallback(async(...a)=>{try{const t=await e(...a);if(o(t))throw t;return t}catch(t){if(o(t))return t.options._fromLocation=r.stores.location.state,r.navigate(r.resolveRedirect(t).options);throw t}},[r,e])}const p=n({type:"function"});export{p as r,u};
